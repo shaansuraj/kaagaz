@@ -52,7 +52,7 @@ Kaagaz uses `react-native-document-scanner-plugin` for the primary capture flow 
 
 This keeps the capture experience production-oriented while leaving room to swap or extend the detection stack later with Vision Camera, OpenCV frame processing, or TFLite-assisted detection. In the current implementation, the accepted scanner result is preserved as the page source for export, which avoids the older clipping issue caused by a second artificial crop pass.
 
-More detail is in [docs/ARCHITECTURE.md](/d:/HexmonTechnology/Kaagaz/docs/ARCHITECTURE.md) and [docs/DEPENDENCIES.md](/d:/HexmonTechnology/Kaagaz/docs/DEPENDENCIES.md).
+More detail is in [docs/ARCHITECTURE.md](/d:/HexmonTechnology/Kaagaz/docs/ARCHITECTURE.md) 
 
 ## Stack
 
@@ -231,10 +231,6 @@ State is stored locally in MMKV. Files stay on-device unless the user explicitly
 - `DOCX -> PDF` is intentionally limited to Kaagaz-generated or image-based DOCX files for reliable offline behavior.
 - Duplex, copies, paper size, orientation, and printer selection are handled by the Android system print UI after Kaagaz opens the print flow.
 
-## QA and release docs
-
-- [Manual QA checklist](/d:/HexmonTechnology/Kaagaz/docs/MANUAL_QA_CHECKLIST.md)
-- [Release checklist](/d:/HexmonTechnology/Kaagaz/docs/RELEASE_CHECKLIST.md)
 
 ## Privacy statement
 
