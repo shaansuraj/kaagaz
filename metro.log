@@ -1,0 +1,76 @@
+npm warn config init.author.name Use `--init-author-name` instead.
+
+> kaagaz@0.0.1 start
+> react-native start --reset-cache
+
+
+Welcome to React Native v0.84
+Starting dev server on http://localhost:8081
+
+
+                        ▒▒▓▓▓▓▒▒
+                     ▒▓▓▓▒▒░░▒▒▓▓▓▒
+                  ▒▓▓▓▓░░░▒▒▒▒░░░▓▓▓▓▒
+                 ▓▓▒▒▒▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▓▓
+                 ▓▓░░░░░▒▓▓▓▓▓▓▒░░░░░▓▓
+                 ▓▓░░▓▓▒░░░▒▒░░░▒▓▒░░▓▓
+                 ▓▓░░▓▓▓▓▓▒▒▒▒▓▓▓▓▒░░▓▓
+                 ▓▓░░▓▓▓▓▓▓▓▓▓▓▓▓▓▒░░▓▓
+                 ▓▓▒░░▒▒▓▓▓▓▓▓▓▓▒░░░▒▓▓
+                  ▒▓▓▓▒░░░▒▓▓▒░░░▒▓▓▓▒
+                     ▒▓▓▓▒░░░░▒▓▓▓▒
+                        ▒▒▓▓▓▓▒▒
+
+
+ WARN  the transform cache was reset.
+                Welcome to Metro v0.83.5
+              Fast - Scalable - Integrated
+
+
+ INFO  Dev server ready. Press Ctrl+C to exit.
+ INFO  Key commands available:
+
+   r  - reload app(s)
+   d  - open Dev Menu
+   j  - open DevTools
+
+ BUNDLE  ./index.js ░░░░░░░░░░░░░░░░ 0% (0/1)
+ BUNDLE  ./index.js ░░░░░░░░░░░░░░░░ 1% (1/1)
+ BUNDLE  ./index.js ▓░░░░░░░░░░░░░░░ 9% (3/7)
+ BUNDLE  ./index.js ▓▓░░░░░░░░░░░░░░ 16% (4/7)
+ BUNDLE  ./index.js ▓▓▓▓░░░░░░░░░░░░ 25% (33/193)
+ BUNDLE  ./index.js ▓▓▓▓░░░░░░░░░░░░ 25% (77/253)
+ BUNDLE  ./index.js ▓▓▓▓░░░░░░░░░░░░ 25% (99/297)
+ BUNDLE  ./index.js ▓▓▓▓░░░░░░░░░░░░ 25% (159/370)
+ BUNDLE  ./index.js ▓▓▓▓░░░░░░░░░░░░ 29% (214/397)
+ BUNDLE  ./index.js ▓▓▓▓▓▓░░░░░░░░░░ 38% (286/474)
+ BUNDLE  ./index.js ▓▓▓▓▓▓░░░░░░░░░░ 38% (356/572)
+ BUNDLE  ./index.js ▓▓▓▓▓▓▓▓░░░░░░░░ 50% (440/619)
+ BUNDLE  ./index.js ▓▓▓▓▓▓▓▓▓░░░░░░░ 60% (519/675)
+ BUNDLE  ./index.js ▓▓▓▓▓▓▓▓▓▓▓▓░░░░ 76% (631/722)
+ BUNDLE  ./index.js ▓▓▓▓▓▓▓▓▓▓▓▓░░░░ 76% (700/844)
+ BUNDLE  ./index.js ▓▓▓▓▓▓▓▓▓▓▓▓░░░░ 76% (724/1131)
+ BUNDLE  ./index.js ▓▓▓▓▓▓▓▓▓▓▓▓░░░░ 76% (726/1134)
+ BUNDLE  ./index.js ▓▓▓▓▓▓▓▓▓▓▓▓░░░░ 76% (766/1186)
+ BUNDLE  ./index.js ▓▓▓▓▓▓▓▓▓▓▓▓░░░░ 76% (846/1235)
+ BUNDLE  ./index.js ▓▓▓▓▓▓▓▓▓▓▓▓░░░░ 77% (1104/1254)
+ BUNDLE  ./index.js ▓▓▓▓▓▓▓▓▓▓▓▓░░░░ 79% (1159/1321)
+ BUNDLE  ./index.js ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ 81% (1217/1379)
+ BUNDLE  ./index.js ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ 81% (1274/1473)
+ BUNDLE  ./index.js ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ 81% (1320/1508)
+ BUNDLE  ./index.js ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ 82% (1388/1529)
+ BUNDLE  ./index.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ 90% (1499/1576)
+ BUNDLE  ./index.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ 93% (1621/1687)
+ BUNDLE  ./index.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ 94% (1727/1790)
+ BUNDLE  ./index.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ 99% (1816/1817)
+ BUNDLE  ./index.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ 99% (1817/1817)
+ BUNDLE  ./index.js 
+ ERROR  Error: Failed to get the SHA-1 for: D:\HexmonTechnology\Kaagaz\node_modules\metro-runtime\src\polyfills\require.js.
+      Potential causes:
+        1) The file is not watched. Ensure it is under the configured `projectRoot` or `watchFolders`.
+        2) Check `blockList` in your metro.config.js and make sure it isn't excluding the file path.
+        3) The file may have been deleted since it was resolved - try refreshing your app.
+        4) Otherwise, this is a bug in Metro or the configured resolver - please report it.
+    at DependencyGraph.getOrComputeSha1 (D:\HexmonTechnology\Kaagaz\node_modules\metro\src\node-haste\DependencyGraph.js:191:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Transformer.transformFile (D:\HexmonTechnology\Kaagaz\node_modules\metro\src\DeltaBundler\Transformer.js:102:22)
